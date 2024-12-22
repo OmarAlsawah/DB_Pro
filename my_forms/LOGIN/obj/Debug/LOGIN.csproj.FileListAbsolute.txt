@@ -1,0 +1,11 @@
+C:\Users\Omar\Desktop\my_forms\LOGIN\bin\Debug\LOGIN.exe.config
+C:\Users\Omar\Desktop\my_forms\LOGIN\bin\Debug\LOGIN.exe
+C:\Users\Omar\Desktop\my_forms\LOGIN\bin\Debug\LOGIN.pdb
+C:\Users\Omar\Desktop\my_forms\LOGIN\obj\Debug\LOGIN.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\my_forms\LOGIN\obj\Debug\LOGIN.Form1.resources
+C:\Users\Omar\Desktop\my_forms\LOGIN\obj\Debug\LOGIN.Properties.Resources.resources
+C:\Users\Omar\Desktop\my_forms\LOGIN\obj\Debug\LOGIN.csproj.GenerateResource.cache
+C:\Users\Omar\Desktop\my_forms\LOGIN\obj\Debug\LOGIN.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\my_forms\LOGIN\obj\Debug\LOGIN.exe
+C:\Users\Omar\Desktop\my_forms\LOGIN\obj\Debug\LOGIN.pdb
+C:\Users\Omar\Desktop\my_forms\LOGIN\obj\Debug\LOGIN.Register.resources

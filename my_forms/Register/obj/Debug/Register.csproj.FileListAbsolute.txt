@@ -1,0 +1,10 @@
+C:\Users\Omar\Desktop\my_forms\Register\obj\Debug\Register.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\my_forms\Register\obj\Debug\Register.Form1.resources
+C:\Users\Omar\Desktop\my_forms\Register\obj\Debug\Register.Properties.Resources.resources
+C:\Users\Omar\Desktop\my_forms\Register\obj\Debug\Register.csproj.GenerateResource.cache
+C:\Users\Omar\Desktop\my_forms\Register\obj\Debug\Register.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\my_forms\Register\bin\Debug\Register.exe.config
+C:\Users\Omar\Desktop\my_forms\Register\bin\Debug\Register.exe
+C:\Users\Omar\Desktop\my_forms\Register\bin\Debug\Register.pdb
+C:\Users\Omar\Desktop\my_forms\Register\obj\Debug\Register.exe
+C:\Users\Omar\Desktop\my_forms\Register\obj\Debug\Register.pdb
