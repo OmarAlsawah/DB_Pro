@@ -1,0 +1,10 @@
+C:\Users\Omar\Desktop\project\c#\Student\Student\bin\Debug\Student.exe.config
+C:\Users\Omar\Desktop\project\c#\Student\Student\bin\Debug\Student.exe
+C:\Users\Omar\Desktop\project\c#\Student\Student\bin\Debug\Student.pdb
+C:\Users\Omar\Desktop\project\c#\Student\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\project\c#\Student\Student\obj\Debug\Student.Form1.resources
+C:\Users\Omar\Desktop\project\c#\Student\Student\obj\Debug\Student.Properties.Resources.resources
+C:\Users\Omar\Desktop\project\c#\Student\Student\obj\Debug\Student.csproj.GenerateResource.cache
+C:\Users\Omar\Desktop\project\c#\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\project\c#\Student\Student\obj\Debug\Student.exe
+C:\Users\Omar\Desktop\project\c#\Student\Student\obj\Debug\Student.pdb
